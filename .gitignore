@@ -1,0 +1,6 @@
+# visual studio generated files and directories
+vs
+/.vs
+
+# generated spfa files
+*.spfa
